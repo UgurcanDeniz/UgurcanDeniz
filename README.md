@@ -9,9 +9,9 @@
    -  Data analysis
    -  Data visualization
 - 📜 My Certifications and Courses
-   -  <a href=”https://coursera.org/share/2c4627251556f2d0886cb6699f56c7f4”>University of Michigan - Python for Everybody</a>
+   -  [University of Michigan - Python for Everybody](https://coursera.org/share/2c4627251556f2d0886cb6699f56c7f4)
    
-- 📫 Here's how you can reach me: <a href=”https://www.linkedin.com/in/ugurcandeniz/”>Linkedin</a>
+- 📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/ugurcandeniz/)
 
 <!---
 UgurcanDeniz/UgurcanDeniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
