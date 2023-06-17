@@ -1,4 +1,4 @@
-- 👋 Hi, I am Uğurcan Deniz
+- 👋 Hi, I am Uğurcan Deniz !
 - 📚 I am a 3rd-year student of Computer Engineering at Doğuş University. I graduated from Marmara University, Department of Banking, in 2020.
 - 🌱 I aim to specialize in Data Engineering. Currently, I am focusing on improving my skills in:
    -  Python
