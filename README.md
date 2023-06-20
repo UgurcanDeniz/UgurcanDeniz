@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Uğurcan Deniz !<br><br>📚 I am a 3rd-year student of Computer Engineering at Doğuş University. I graduated from Marmara University, Department of Banking, in 2020.<br><br>🌱 I aim to specialize in Data Engineering. Currently, I am focusing on improving my skills in:<br>   -  Python<br>   -  Pandas <br>   -  SQL<br>   -  Data modeling <br>   -  ETL <br>   -  Data analysis<br>   -  Data visualization<br><br>📜 My Certifications and Courses<br>   -  [University of Michigan - Python for Everybody](https://coursera.org/share/2c4627251556f2d0886cb6699f56c7f4)<br>   <br>
+👋 Hi, I am Uğurcan Deniz !<br><br>📚 I am a 3rd-year student of Computer Engineering at Doğuş University. <br> I graduated from Marmara University, Department of Banking, in 2020.<br><br>🌱 I aim to specialize in Data Engineering. Currently, I am focusing on improving my skills in:<br>   -  Python<br>   -  Pandas <br>   -  SQL<br>   -  Data modeling <br>   -  ETL <br>   -  Data analysis<br>   -  Data visualization<br><br>📜 My Certifications and Courses<br>   -  [University of Michigan - Python for Everybody](https://coursera.org/share/2c4627251556f2d0886cb6699f56c7f4)<br>   <br>
 
 
 ## 🌐 Socials:
